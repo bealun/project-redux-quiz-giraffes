@@ -13,6 +13,7 @@
 .questionText {
   font-size: 24px;
   text-align: center;
+  margin: 15px;
 }
 
 .answerContainer {

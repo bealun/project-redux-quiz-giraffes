@@ -7,9 +7,9 @@ export const Progress = () => {
   
   return (
     <div>
-      <h1>
+      <h3>
         {questionIndex + 1 }/{totalQuestions}
-      </h1>
+      </h3>
     </div>
   )
 }

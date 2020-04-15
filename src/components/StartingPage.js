@@ -6,7 +6,7 @@ export const StartingPage = () => {
 
   return (
     
-    <div mpo>
+    <div className="welcomeContainer">
       <h1 className="welcomeGreeting">Welcome to the quiz</h1>
       <StartButton className="startButton"/>
     </div>

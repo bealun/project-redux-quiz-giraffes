@@ -32,7 +32,7 @@
   border-radius: 20px;
   border: 1px solid black;
   box-shadow: 4px 4px black;
-  font-size: 14px;
+  font-size: 16px;
   outline: none;
   transition: .4s ease-in-out;
   background-color: white;
@@ -62,6 +62,7 @@
 h1,
 h3 {
   font-family: 'Paytone One', sans-serif;
+  padding: 0px 10px;
 }
 
 p {
@@ -77,6 +78,7 @@ p {
   justify-content: space-evenly;
   align-items: center;
   text-align: center;
+  /* padding: 10px 30px; */
 }
 
 .welcomeGreeting{
@@ -90,12 +92,13 @@ p {
 }
 
 .green {
-  background: lightgreen;
+  background: rgb(105, 199, 105);
   transform: scale(1.2);
 }
 
 .green:disabled {
   color: black;
+  font-weight: bold;
 }
 
 /* .red {

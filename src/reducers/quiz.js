@@ -36,20 +36,20 @@ const questions = [
     id: 4,
     image: './assets/giraffe_05.jpg',
     questionText: "How long is the giraffe's neck?",
-    options: ['2.1 m',
-    '2.4 m',
-    '2.7 m',
-    '3 m'],
+    options: ['2.1m',
+    '2.4m',
+    '2.7m',
+    '3m'],
     correctAnswerIndex: 0
   },
   {
     id: 5,
     image: './assets/giraffe_02.jpg',
     questionText: "Just how long is the giraffe's tongue?",
-    options: ['38 cm',
-    '53 cm',
-    '45 cm',
-    '30 cm'],
+    options: ['38cm',
+    '53cm',
+    '45cm',
+    '30cm'],
     correctAnswerIndex: 1
   }
 ]

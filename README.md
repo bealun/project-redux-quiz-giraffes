@@ -1,6 +1,6 @@
 # Redux quiz group project
 
-A interactive quiz built in teams with React.js and intro to Redux.
+A interactive quiz built in teams with React.js and intro to Redux 🦒🌸❓👩‍💻
 
 ## Code
 I've used:

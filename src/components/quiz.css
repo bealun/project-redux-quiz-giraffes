@@ -57,13 +57,13 @@
 }
 
 .moveOn:hover {
-  color: gray;
+  color: rgb(82, 152, 161);
 }
 
 h1,
 h3 {
   font-family: 'Paytone One', sans-serif;
-  padding: 0px 10px;
+  max-width: 95%;
 }
 
 p {
@@ -79,12 +79,13 @@ p {
   justify-content: space-evenly;
   align-items: center;
   text-align: center;
-  /* padding: 10px 30px; */
+  margin: 0;
 }
 
 .welcomeGreeting{
   font-size: 60px;
   width: 100%;
+  text-align: center;
 }
 
 .startButton {
